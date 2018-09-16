@@ -1,0 +1,33 @@
+_repo: The-Illustration-of-Books-A-Manual-for-the-Use-of-Students-Notes-for-a-Course-of-Lectures-at-__51778
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pennell, Joseph
+    alias: Pennell, J. (Joseph)
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '33068'
+    url: http://www.gutenberg.org/2009/agents/33068
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
+description: ''
+gutenberg_issued: '2016-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illustration of books -- Handbooks, manuals, etc.'
+- !lcc 'NC'
+- !lcsh 'Illustration of books'
+- GITenberg
+tableOfContents: What is illustration? -- The equipment of the illustrator -- Methods
+  of drawing for reproduction in line -- The reproduction of line drawings -- The
+  making of wash drawings and their reproduction by mechanical process -- Reproduction
+  of drawings by wood engraving -- Lithography -- Etching -- The printing of etchings
+  -- Photogravure and photo-lithography, etc. -- Making ready for the printing press.
+title: "The Illustration of Books\r\nA Manual for the Use of Students, Notes for a\
+  \ Course of Lectures at the Slade School, University College"
+url: http://www.gutenberg.org/ebooks/51778
